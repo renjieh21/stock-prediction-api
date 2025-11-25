@@ -152,7 +152,7 @@ This project uses **Pydantic v2**, which eliminates the metaclass conflicts seen
 ```
 fastapi==0.110.0
 uvicorn[standard]==0.27.1
-torch==2.1.0
+torch==2.0.1
 scikit-learn==1.3.2
 joblib==1.3.2
 numpy==1.26.4
